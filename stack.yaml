@@ -1,0 +1,10 @@
+resolver: lts-18.21
+packages:
+- .
+
+extra-deps:
+  - data-timeout-0.3.1@sha256:80830a56fcb562b06ede4203de3a80a17d359c40311624f9e4f72b425a5294db,1313
+
+nix:
+  enable: true
+  packages: []

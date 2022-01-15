@@ -1,0 +1,3 @@
+# ptt
+
+Plaintext time tracker

@@ -1,0 +1,23 @@
+Project uni:edat "Estructuras de Datos"
+Project uni:afvc "Compleja"
+Project uni:toel "Topología"
+Project uni:tfg:manual-lean "TFG: Lectura y ejercicios del manual de Lean"
+
+Project webs:elvivero "elvivero.es"
+Project webs:haztecaso "haztecaso.com"
+
+#Pomodoro default 25 5 15 4
+#                |  | |  |
+#                |  | |  repetitions till long pause
+#                |  | long pause minutes
+#                |  pause minutes
+#                work minutes
+#Pomodoro long 50 10 20 4
+
+2022-01-01 Casa
+  uni:edat ..
+  uni:tfg:manual-lean ..
+
+2022-01-01 Casa
+  uni:edat ..
+  uni:edat ..
